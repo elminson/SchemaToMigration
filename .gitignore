@@ -1,0 +1,4 @@
+
+*.xml
+.idea/SchemaToMigration.iml
+vendor/*
